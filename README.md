@@ -1,11 +1,16 @@
-# 🏆 Ordered Store Manager
+<div align="center">
+    <summary>
+        <h1>🏆 Ordered Store Manager</h1>
+    </summary>
+    
+[![Luau](https://img.shields.io/badge/Made%20with-Luau-blue?style=for-the-badge)](https://luau-lang.org/)
+[![Roblox](https://img.shields.io/badge/Platform-Roblox-red?style=for-the-badge)](https://www.roblox.com/)
+</div>
 
-A Luau module for managing **OrderedDataStores** in Roblox with automatic server-to-client synchronization. Perfect for leaderboards, rankings, and anything that needs real-time ordered data!
+---
 
 ## 📦 What is this?
-
-`ordered-store-manager` is a wrapper around Roblox's `OrderedDataStore` that handles everything for you:
-
+A Luau module for managing **OrderedDataStores** in Roblox with automatic server-to-client synchronization. Perfect for leaderboards, rankings, and anything that needs real-time ordered data!
 - **Automatic updates** at configurable intervals
 - **Real-time replication** to all clients via `RemoteEvent`
 - **Automatic retry** on fetch failures
