@@ -1,7 +1,7 @@
 <div align="center">
-    <summary>
-        <h1>🏆 Ordered Store Manager</h1>
-    </summary>
+
+# 🏆 Ordered Store Manager
+Simple Ordered Data Store manager module
     
 [![Luau](https://img.shields.io/badge/Made%20with-Luau-blue?style=for-the-badge)](https://luau-lang.org/)
 [![Roblox](https://img.shields.io/badge/Platform-Roblox-red?style=for-the-badge)](https://www.roblox.com/)
